@@ -8,6 +8,16 @@ I care about one deceptively simple question: *How do we make ML systems that ar
 This has pulled my work toward **ML-for-code, program analysis, robustness, and evaluation frameworks**, and away from demo-first, safety-last systems.
 
 ---
+### 🔬 Research Interests
+
+- Safe and reliable **code generation**
+- **Evaluation and robustness** of LLM-based systems
+- **Responsible ML** and ML-for-Software Engineering
+- Program analysis–inspired constraints for generative models
+
+I’m especially interested in work that connects **formal ideas** with **systems that people actually deploy**.
+
+---
 
 ### 🔧 Tech Stack & Tools
 
@@ -64,16 +74,7 @@ This has pulled my work toward **ML-for-code, program analysis, robustness, and 
 
 ---
 
-### 🔬 Research Interests
 
-- Safe and reliable **code generation**
-- **Evaluation and robustness** of LLM-based systems
-- **Responsible ML** and ML-for-Software Engineering
-- Program analysis–inspired constraints for generative models
-
-I’m especially interested in work that connects **formal ideas** with **systems that people actually deploy**.
-
----
 
 ### 🔗 Let’s Connect
 
